@@ -17,8 +17,7 @@
         android:background="#A52A2A"
         android:gravity="center"
         android:text="Gra w kości. Autor: Hera Koesling"
-        android:textColor="@color/white"
-        android:textSize="24sp" />
+        android:textColor="@color/white" />
 
     <Button
         android:layout_width="match_parent"
@@ -38,50 +37,55 @@
             android:layout_width="57dp"
             android:layout_height="60dp"
             android:layout_margin="9dp"
+            android:gravity="center"
+            android:padding="20dp"
+            android:background="#ffffff"
             android:text="?"
-            android:textSize="20sp"
-            android:textAlignment="center"
-            android:background="@color/white"/>
+            android:textSize="18sp"/>
 
         <TextView
             android:id="@+id/Kostka2"
             android:layout_width="57dp"
             android:layout_height="60dp"
             android:layout_margin="9dp"
+            android:gravity="center"
+            android:padding="20dp"
+            android:background="#ffffff"
             android:text="?"
-            android:textSize="20sp"
-            android:textAlignment="center"
-            android:background="@color/white"/>
+            android:textSize="18sp"/>
 
         <TextView
             android:id="@+id/Kostka3"
             android:layout_width="57dp"
             android:layout_height="60dp"
             android:layout_margin="9dp"
+            android:gravity="center"
+            android:padding="20dp"
+            android:background="#ffffff"
             android:text="?"
-            android:textSize="20sp"
-            android:textAlignment="center"
-            android:background="@color/white"/>
+            android:textSize="18sp"/>
 
         <TextView
             android:id="@+id/Kostka4"
             android:layout_width="57dp"
             android:layout_height="60dp"
             android:layout_margin="9dp"
+            android:gravity="center"
+            android:padding="20dp"
+            android:background="#ffffff"
             android:text="?"
-            android:textSize="20sp"
-            android:textAlignment="center"
-            android:background="@color/white"/>
+            android:textSize="18sp"/>
 
         <TextView
             android:id="@+id/Kostka5"
             android:layout_width="57dp"
             android:layout_height="60dp"
             android:layout_margin="9dp"
+            android:gravity="center"
+            android:padding="20dp"
+            android:background="#ffffff"
             android:text="?"
-            android:textSize="20sp"
-            android:textAlignment="center"
-            android:background="@color/white"/>
+            android:textSize="18sp"/>
     </LinearLayout>
     <TextView
         android:id="@+id/wynik_losowania"
