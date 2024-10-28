@@ -25,7 +25,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/Kostka1"/>
+        android:id="@+id/Kostka1"
+        android:text="null"/>
 </LinearLayout>
 
 
